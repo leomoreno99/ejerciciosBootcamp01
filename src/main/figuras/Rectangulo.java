@@ -3,6 +3,7 @@ package main.figuras;
 public class Rectangulo {
     private int largo;
     private int ancho;
+    int largo2;
 
     public Rectangulo(int largo, int ancho) {
         this.largo = largo;
